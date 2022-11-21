@@ -1,6 +1,3 @@
-Задание 1
-
-
 import java.util.Scanner;
 
 public class Main {
@@ -25,4 +22,4 @@ public class Main {
 }
 
 
-![image](https://user-images.githubusercontent.com/55356699/203155725-f4262073-5b93-420f-b3fd-2fd8f60c614c.png)
+
